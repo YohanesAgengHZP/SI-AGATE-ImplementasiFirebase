@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153863629400",
+    "project_id": "agate---incremental-game",
+	"firebase_url": "gs://agate---incremental-game.appspot.com",
+    "storage_bucket": "agate---incremental-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153863629400:android:b9b0df66c33a3edf88b82d",
+        "android_client_info": {
+          "package_name": "com.agate.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153863629400-uim1nvbqaaqr0535ai87hj8cnuctsatt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtFBrDE4RDR1AzjxEvOlnydorAKeie7Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153863629400-uim1nvbqaaqr0535ai87hj8cnuctsatt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
